@@ -23,3 +23,7 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn)
 
 //string and number can be converted into boolean.
+
+let value =3
+let negValue= -value
+console.log(negValue)
